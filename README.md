@@ -1,4 +1,4 @@
-##    Download all files.
+##    Download all files. Uses Python 3.5+
 ##    1) Locate and upload SSSM.csv file - the file consists of stocks and values.
 ##    2) You can record a trade (BUY or SELL).
 ##    3) Calculate a P/E Ratio (Price Earnings Ratio) for a stock.
